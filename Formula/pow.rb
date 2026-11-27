@@ -3,8 +3,8 @@
 class Pow < Formula
   desc "Live view of power, load, temperature and fans on Apple silicon"
   homepage "https://github.com/qrux/pow"
-  url "https://github.com/qrux/pow/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a548587123d835888df6d153ed1a4050631b7093d84bb143a7543730fe50e088"
+  url "https://github.com/qrux/pow/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "21e3bdbc2cfdd7b4f805efa5983e7d925edc05582348093d8b61d7fe7e256fcb"
   license "Apache-2.0"
 
   depends_on arch: :arm64
